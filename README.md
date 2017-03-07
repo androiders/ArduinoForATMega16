@@ -16,4 +16,4 @@ What works:
 * ADC works at least a little. By wiring AREF (pin 32) to VCC the vref of the ADC is set. This works at least with a tft touch screen with the adafruit touchscreen library.
 
 What does not work:
-*Nothing more than the above has been tested.
+* Nothing more than the above has been tested.
